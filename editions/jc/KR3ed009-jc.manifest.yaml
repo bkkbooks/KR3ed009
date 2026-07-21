@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ed009_000-jc.yaml, hash: 'sha256:cd2c583085d66cc895b11c28a623f18dc75cda86849b8afe55ea69b73b51c220'}
+  - {seq: 0, filename: KR3ed009_000-jc.yaml, hash: 'sha256:1f73be0eaa4168114783a488ccc3ec722a6db1847d9720caebda7eac400dda3c'}
   - {seq: 1, filename: KR3ed009_001-jc.yaml, hash: 'sha256:f0f906c7700ce6e16db938172a806064f29dd265e320fd1aa15075dfb51578b3'}
   - {seq: 2, filename: KR3ed009_002-jc.yaml, hash: 'sha256:8a788831c9171982b352fe54b511b0c7815141b773e90e462a5283cc86a95c75'}
   - {seq: 3, filename: KR3ed009_003-jc.yaml, hash: 'sha256:c1e1aa2ebfb5c5552fe721b849e0c41624dc28092bc4c6a683c673af72e71b1c'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 9, filename: KR3ed009_009-jc.yaml, hash: 'sha256:6113e2e4a0f19531090ea356a4159b15a23feff13292e5840610c82d67f2e288'}
   - {seq: 10, filename: KR3ed009_010-jc.yaml, hash: 'sha256:74072da9314711abf4532d138e7f04c055d54a06cdb0b8eef9648f1a680106b9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed009_000-jc.markers.yaml, hash: 'sha256:dcae864d60ef9677e34b89f88d59dacbd6aa8b948e28e7e535da0ed89a2f0540'}
+  - {seq: 0, role: markers, filename: assets/KR3ed009_000-jc.markers.yaml, hash: 'sha256:dfa34bbeb1466283ae711e92e128c98a814b40ecc03285470546a71e11719671'}
   - {seq: 1, role: markers, filename: assets/KR3ed009_001-jc.markers.yaml, hash: 'sha256:d55f2046bef48c88779324da063af0a876114883eca6336dfce31d6966841ea4'}
   - {seq: 2, role: markers, filename: assets/KR3ed009_002-jc.markers.yaml, hash: 'sha256:aa4cb69789c27cf46e9217a861d14be0818f7a8ddffab898ee646d132781ebc1'}
   - {seq: 3, role: markers, filename: assets/KR3ed009_003-jc.markers.yaml, hash: 'sha256:f591cc55f097740b728b8e6517c40bd6e62e6825b870e5ac5040d98df234874e'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed009_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 1222
   label: 原序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed009_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 1222
     - 1470
   label: 蘇沈內翰良方序一
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed009_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 1470
     - 1477
   label: 蘇沈內翰良方序
@@ -2441,4 +2441,4 @@ table_of_contents:
   label: 子瞻雜記
   type: section
   level: 2
-hash: sha256:ebbb885cbecb6d5217cbb0e8a6a380ff62097466e1caac833e0fa38570ec329c
+hash: sha256:2ab3a64ca0aa563ba706d4bda96692df2bf4da7007bb3da38631abd60b72088e
